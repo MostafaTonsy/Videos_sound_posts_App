@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455052923740",
+    "project_id": "foodmarketapp-bac77",
+    "storage_bucket": "foodmarketapp-bac77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455052923740:android:19d524d979bd5d530fe799",
+        "android_client_info": {
+          "package_name": "com.example.videos_sounds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455052923740-sca8d3lch5j8kaldmtiphis5kf54959d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFiPVZdU5ggo1RqKLShq5PyysWOY8d2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455052923740-sca8d3lch5j8kaldmtiphis5kf54959d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
